@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Commercial Report",
+        "text": "Start the day elaborating the weekly commercial report for the company Direction",
+        "id": "8a37"
+    },
+    {
+        "title": "Customer Visit",
+        "text": "Visit Jon Doe Co. to have further discussions about Project X",
+        "id": "54ce"
+    },
+    {
+        "title": "Max Vaccines",
+        "text": "Take pet to the veterinary to get the annual vaccination plan",
+        "id": "d6b8"
+    },
+    {
+        "title": "Coding Practice",
+        "text": "Study JavaScript and code algorithms for 2 hours ",
+        "id": "58c3"
+    },
+    {
+        "title": "Typing Practice",
+        "text": "Do advanced typing exercises to improve speed and typing symbols ",
+        "id": "fa62"
+    },
+    {
+        "title": "Movie Time",
+        "text": "Go to the movies to have a great time with girlfriend",
+        "id": "2206"
+    },
+    {
+        "title": "Customer Visit",
+        "text": "Visit Jon Doe Co. to have further discussions about Project X",
+        "id": "618a"
+    }
+]
