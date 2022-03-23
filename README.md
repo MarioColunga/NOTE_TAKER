@@ -36,8 +36,8 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 
 
 deployment link: https://notetakermario.herokuapp.com/
-link to access the repository
-ScreenShots
+link to access the repository: https://github.com/MarioColunga/Note_Taker.git
+
 
 
 
