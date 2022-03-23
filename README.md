@@ -1,6 +1,6 @@
 Note Taker
 
-The Note Taker can be used to write and save notes. This application allows you to have control of al your task and chores. You can add and delete tasks whenever you want.   
+The Note Taker can be used to write and save notes. This application allows you to have control of all your task and chores. You can add and delete tasks whenever you want.   
 
 ```
 deployment link: https://notetakermario.herokuapp.com/
